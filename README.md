@@ -1,8 +1,8 @@
-PHP 8.3, Laravel 11
-git clone "https://github.com/Nurnasib/mastered_portfolio"
-composer update
-copy .env.example to .env
-php artisan key:generate
-php artisan serve
-'/' is for index
-'/blog' is for blog
+1. required PHP 8.3, Laravel 11
+2. git clone "https://github.com/Nurnasib/mastered_portfolio"
+3. composer update
+4. copy .env.example to .env
+5. php artisan key:generate
+6. php artisan serve
+7. '/' is for index
+8. '/blog' is for blog
